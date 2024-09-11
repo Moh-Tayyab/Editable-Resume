@@ -1,0 +1,12 @@
+{
+  "name": "milestone04",
+  "version": "1.0.0",
+  "description": "- **Description**: A hackathon is a coding competition where participants are given a set of challenges or\r   problems to solve within a limited time frame, usually 24 hours.\r - **Example**: \"The hackathon was a huge success, with many innovative solutions presented by the\r   participants.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
